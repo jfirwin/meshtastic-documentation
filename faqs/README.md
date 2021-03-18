@@ -8,17 +8,17 @@
 - [Where can i buy a radio, and what does it cost?](#buying-where)
 - [What do I get when I buy one?](#buying-what)
 
-<a name="introduction"/>
+<a name="introduction"></a>
 ## What is Meshtastic?
 
 lorem ipsum
 
-<a name="buying"/>
+<a name="buying"/></a>
 ## Buying your Radio
 
 lorem ipsum
 
-<a name="buying-where"/>
+<a name="buying-where"></a>
 ### Where can I buy a radio, and how much does it cost?
 
 lorem ipsum
