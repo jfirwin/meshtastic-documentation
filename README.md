@@ -8,6 +8,12 @@
 
 # Meshtastic Documentation
 
+- [Getting Started](getting-started/README.md)
+- [Supported Hardware](supported-hardware/README.md)
+- [Software](software-docs/README.md)
+- [Real-world Examples](examples/README.md)
+- [FAQs](faqs/README.md)
+- 
 ## About
 
 Meshtastic® is a project that lets you use inexpensive GPS mesh radios as an extensible, super long battery life mesh GPS communicator. These radios are great for hiking, skiing, paragliding - essentially any hobby where you don't have reliable internet access. Each member of your private mesh can always see the location and distance of all other members and any text messages sent to your group chat.
@@ -19,14 +25,6 @@ Typical time between recharging the radios should be about eight days.
 This project is is currently in beta-testing - if you have questions please [join our discussion forum](https://meshtastic.discourse.group/).
 
 This software is 100% open source and developed by a group of hobbyist experimenters. No warranty is provided, if you'd like to improve it - we'd love your help. Please post in the chat.
-
-## Directory
-
-- [Getting Started](getting-started/README.md)
-- [Supported Hardware](supported-hardware/README.md)
-- [Software](software-docs/README.md)
-- [Real-world Examples](examples/README.md)
-- [FAQs](faqs/README.md)
 
 ## General Documentation Help
 
