@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/meshtastic/meshtastic-design/master/typelogo/typelogo.svg" alt="Meshtastic Typelogo" style="width:75%"/>
 </p>
 <p align="center">
-  <img src="https://github.com/meshtastic/meshtastic-design/raw/master/styleguide/idea.png" alt="Meshtastic Typelogo" style="width:75%"/>
+  <img src="https://github.com/meshtastic/meshtastic-design/raw/master/styleguide/idea.png" alt="Meshtastic Typelogo"/>
   </br>Inspired by the appearance/aesthetics of physical LoRa modulation.
 </p>
 
