@@ -1,5 +1,7 @@
 # Meshtastic CLI
 
+Run command `meshtastic -h` or `meshtastic --help` to see a partial list of available commands.
+
 ## Contents
 
 - [Bluetooth Settings](#bluetooth-settings)
