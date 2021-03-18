@@ -1,4 +1,4 @@
-# Meshtastic Softwares
+# Meshtastic Software
 
 | Name | Description | Download | Documentation | Source Code |
 | :--: | :---------- | :------: | :-----------: | :---------: |
