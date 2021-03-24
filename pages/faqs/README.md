@@ -1,3 +1,11 @@
+---
+layout: page
+title: Frequently Asked Questions
+permalink: /faq
+nav_order: 10
+has_children: true
+---
+
 # FAQs
 
 ## Table of Contents

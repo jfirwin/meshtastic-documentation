@@ -1,3 +1,10 @@
+---
+layout: page
+title: Getting Started
+permalink: /getting-started
+nav_order: 2
+---
+
 # Getting Started
 
 A guide to setting up your Meshtastic device

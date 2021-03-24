@@ -1,19 +1,13 @@
+---
+layout: page
+title: Home
+permalink: /
+nav_order: 1
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/meshtastic/meshtastic-design/master/typelogo/typelogo.svg" alt="Meshtastic Typelogo"/>
 </p>
-<p align="center">
-  <img src="https://github.com/meshtastic/meshtastic-design/raw/master/styleguide/idea.png" alt="Meshtastic Typelogo"/>
-  </br>Inspired by the appearance/aesthetics of physical LoRa modulation.
-</p>
-
-# Meshtastic Documentation
-
-- [Getting Started](getting-started/README.md)
-- [Supported Hardware](supported-hardware/README.md)
-- [Software](software-docs/README.md)
-- [Real-world Examples](examples/README.md)
-- [FAQs](faqs/README.md)
-- 
 ## About
 
 Meshtastic® is a project that lets you use inexpensive GPS mesh radios as an extensible, super long battery life mesh GPS communicator. These radios are great for hiking, skiing, paragliding - essentially any hobby where you don't have reliable internet access. Each member of your private mesh can always see the location and distance of all other members and any text messages sent to your group chat.
