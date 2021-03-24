@@ -1,3 +1,10 @@
+---
+layout: page
+title: Meshtastic CLI
+permalink: /meshtastic-cli
+parent: Software
+---
+
 # Meshtastic CLI
 
 Run command `meshtastic -h` or `meshtastic --help` to see a partial list of available commands.
