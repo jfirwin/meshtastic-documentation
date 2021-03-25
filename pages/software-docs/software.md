@@ -1,3 +1,11 @@
+---
+layout: page
+title: Software
+permalink: /software
+nav_order: 4
+has_children: true
+---
+
 # Meshtastic Software
 
 | Name | Description | Download | Documentation | Source Code |

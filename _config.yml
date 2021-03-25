@@ -1,0 +1,18 @@
+title: Meshtastic
+description: An opensource hiking, pilot, skiing, secure GPS mesh communicator
+
+url: "https://jfirwin.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  jfirwin
+
+logo: /assets/meshtastic-logo.png
+color_scheme: meshtastic
+
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-feed
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/jfirwin/meshtastic-documentation"
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
