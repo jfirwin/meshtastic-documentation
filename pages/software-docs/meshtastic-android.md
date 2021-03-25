@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meshtastic Andriod
+title: Meshtastic Android
 permalink: /meshtastic-android
 parent: Software
 ---
