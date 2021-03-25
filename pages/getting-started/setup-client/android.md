@@ -14,7 +14,7 @@ Our Android application is available to download from Google Play
 
 On installing the Meshtastic app, load it and navigate to the settings page. Here you will ba able to select a nearby Meshtastic node, which you then need to pair with using your phone's operating system. Some nodes have buttons allowing you to change the page displayed on the nodes screen. If you double click this node, it will set the pairing code to `123456`
 
-![Messages page](/assets/messages.png) ![Nodes page](/assets/nodes.png) ![Channel page](/assets/chennel.png) ![Settings page](/assets/settings.png) ![Debug page](/assets/debug.png)
+[![Messages page](/assets/messages_sm.png)](/assets/messages.png) [![Nodes page](/assets/nodes_sm.png)](/assets/nodes.png) [![Channel page](/assets/chennel_sm.png)](/assets/channel.png) [![Settings page](/assets/settings_sm.png)](/assets/settings.png) [![Debug page](/assets/debug_sm.png)](/assets/debug.png)
 
 
 There is a beta program for the app, which will let you test the cutting edge changes, though this may come with extra bugs. You can join this via Google Play. It is recommended that you follow the [Meshtastic Discourse Alpha Testers](https://meshtastic.discourse.group/c/development/alpha-testers) if you decide to join this.
