@@ -8,7 +8,11 @@ has_children: true
 
 # Getting Started
 
-A guide to setting up your Meshtastic device
+A guide to setting up your Meshtastic device.
+
+The easiest way is to [buy a device with the software already installed](https://www.aliexpress.com/item/4001178678568.html) In the Americas get the 915mhz version, In Europe the 868Mhz or Asia 923Mhz [Frequency details](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html).
+
+Or you can install the software yourself using the instructions below.
 
 ## Table of Contents
 
