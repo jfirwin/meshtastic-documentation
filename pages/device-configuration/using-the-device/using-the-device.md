@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Using the Device
-permalink: /using-the-device
+permalink: /device-configuration
 nav_order: 3
-parent: Getting Started
+parent: Device Configuration
 has_children: true
 ---
 # Using the Device
