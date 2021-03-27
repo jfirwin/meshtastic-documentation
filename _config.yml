@@ -2,6 +2,7 @@ title: Meshtastic
 description: An opensource hiking, pilot, skiing, secure GPS mesh communicator
 
 url: "https://jfirwin.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/meshtastic-documentation"
 github_username:  jfirwin
 
 logo: /assets/meshtastic-logo.png
