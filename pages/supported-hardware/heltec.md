@@ -6,3 +6,6 @@ parent: Supported Hardware
 ---
 
 # Heltec
+
+https://heltec.org/project/wifi-lora-32/
+![Heltec V2](/assets/heltec v2.png)
