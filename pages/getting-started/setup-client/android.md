@@ -14,13 +14,12 @@ Our Android application is available to download from Google Play
 
 On installing the Meshtastic app, load it and navigate to the settings page. Here you will ba able to select a nearby Meshtastic node, which you then need to pair with using your phone's operating system. Some nodes have buttons allowing you to change the page displayed on the nodes screen. If you double click this button, it will set the pairing code to `123456`
 
-[![Messages page](https://github.com/jfirwin/meshtastic-documentation/assets/messages_sm.png)](https://github.com/jfirwin/meshtastic-documentation/assets/messages.png) [![Nodes page](/assets/nodes_sm.png)](/assets/nodes.png) [![Channel page](/assets/channel_sm.png)](/assets/channel.png) [![Settings page](/assets/settings_sm.png)](/assets/settings.png) [![Debug page](/assets/debug_sm.png)](/assets/debug.png)
+[![Messages page](img/messages_sm.png)] [![Nodes page](/assets/nodes_sm.png)](/assets/nodes.png) [![Channel page](/assets/channel_sm.png)](/assets/channel.png) [![Settings page](/assets/settings_sm.png)](/assets/settings.png) [![Debug page](/assets/debug_sm.png)](/assets/debug.png)
 
 The app will ask you to give it permissions to access your location. This is needed for any app to use bluetooth, as the app is then able to scan the local area for bluetooth devices and, in theory, could triangulate your location based the devices it sees. If you give location permissions "only while using the app", the app will only be able to use bluetooth while it is open and visible to the user. This means if the screen is locked, or you are using another app, Meshtastic will not be able to use bluetooth, and will not be able to receive any messages from the node.
 
 There is a beta program for the app, which will let you test the cutting edge changes, though this may come with extra bugs. You can join this via Google Play. It is recommended that you follow the [Meshtastic Discourse Alpha Testers](https://meshtastic.discourse.group/c/development/alpha-testers) channel if you decide to join this.
 
-The app uses anonymous usage statistics and crash reports to allow us to catch problems with Meshtastic and fix them. You can disable this by unticking the checkbox on the settings page. 
+The app uses anonymous usage statistics and crash reports to allow us to catch problems with Meshtastic and fix them. You can disable this by unticking the checkbox on the settings page.
 
 [![Settings page with statistics consent box highlighted](/assets/stats_consent_sm.png)](/assets/stats_consent.png)
-
