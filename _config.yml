@@ -5,7 +5,7 @@ url: "https://jfirwin.com" # the base hostname & protocol for your site, e.g. ht
 baseurl: "/meshtastic-documentation"
 github_username:  jfirwin
 
-logo: /assets/meshtastic-logo.png
+logo: /img/meshtastic-logo.png
 color_scheme: meshtastic
 
 remote_theme: pmarsceill/just-the-docs
