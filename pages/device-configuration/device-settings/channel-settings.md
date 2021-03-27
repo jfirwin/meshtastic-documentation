@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bluetooth Settings
-permalink: /bluetooth-settings
+title: Channel Settings
+permalink: /channel-settings
 nav_order: 10
 parent: Device Settings
 grand_parent: Device Configuration
