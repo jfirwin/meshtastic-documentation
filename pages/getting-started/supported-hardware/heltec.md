@@ -3,6 +3,7 @@ layout: page
 title: Heltec
 permalink: /heltec
 parent: Supported Hardware
+grand_parent: Getting Started
 ---
 
 # Heltec
