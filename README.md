@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/meshtastic/meshtastic-design/master/typelogo/typelogo.svg" alt="Meshtastic Typelogo"/>
 </p>
 
-⚠️ **This repository is not an active documentation for Meshtastic. Please contribute/view the official documentation at [meshtastic/Meshtastic](https://github.com/meshtastic/Meshtastic)**⚠️
+⚠️ **This repository is not an active documentation for Meshtastic. Please contribute/view the official documentation at [meshtastic/Meshtastic](https://github.com/meshtastic/Meshtastic)** ⚠️
 
 ## Meshtastic Documentation
 
